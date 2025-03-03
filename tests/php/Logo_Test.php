@@ -9,9 +9,9 @@ use Automattic\Jetpack\Assets\Logo;
 use PHPUnit\Framework\TestCase;
 
 /**
- * Class Test_Logo
+ * Class Logo_Test
  */
-class Test_Logo extends TestCase {
+class Logo_Test extends TestCase {
 	use \Yoast\PHPUnitPolyfills\Polyfills\AssertStringContains;
 
 	/**
